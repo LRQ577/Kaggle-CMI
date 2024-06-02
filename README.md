@@ -1,4 +1,4 @@
-![image](https://github.com/LRQ577/Kaggle-CMI/assets/119293404/e9c5e59a-b351-4295-b4f3-437122809572)# Kaggle-CMI
+# Kaggle-CMI
 
 If you want to know more information about the competition:https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
 
